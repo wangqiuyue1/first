@@ -1,0 +1,38 @@
+body{background-image: url("../images/hai.jpg");background-repeat:no-repeat;background-position: bottom center;}
+.head{
+	font-size: 14px;
+	color:#ccc;
+}
+.clear{clear: both;}
+.main{width:1000px;margin:0px auto;}
+.main1 img{width:60px;height:60px;border:0px;}
+.sou{float:right;margin:0px auto;}
+.ss{border:1px solid #c00;float:left;margin-right: 5px}
+.ss input{border:1px solid #c00;width:150px;height:30px}
+.ss1{border:1px solid #000;color:fff;background-color: #c00;float:left;width:30px;height:30px;padding-top: 3px}
+.logo{background-color: #89d4ad;height:30px;}
+.banner img{width:100%;height:400px;}
+.logo_list{width:1000px;margin:0px auto;} 
+.logo_list ul{list-style-type: none;}
+.logo_list ul li{float:left;padding:5px 20px;}
+.logo_list ul li a{text-decoration:none;color:#fff;}
+.logo_list a:hover{color:#c00;text-decoration: underline;}
+.body{width:1000px;height:auto;margin:0px auto;}
+.top{width:990px;height:350px;margin:0px center;border-left: 2px solid #333;border-right: 2px solid #333}
+.a{height:30px;background-color: #0000ef;}
+.a ul{list-style-type: none;}
+.a ul li{float:left;}
+.a ul li a{display:block;width:100px;text-decoration: none;color:#333;text-align:center;padding-top:5px;}
+.a a:hover{color:#cc0;}
+.b{float:left;}
+.b ul{}
+.b ul li a{text-decoration: none;font-size: 17px;color:#333;line-height: 30px}
+.b a:hover{text-decoration: underline;color:#c00;}
+.c{float:left;padding:10px;}
+.c img{width:140px;height:150px;}
+.center{width:990px;height:350px;margin:0px center;border-left: 2px solid #333;border-right: 2px solid #333}
+.bottom{width:990px;height:350px;margin:0px center;border-left: 2px solid #333;border-right: 2px solid #333}
+.foot{font-weight: bolder;}
+.last{background-color: #333;height:100px;padding-top:10px;}
+.last p{text-align:center;color:#fff;}
+.last a{color:#fff;}
